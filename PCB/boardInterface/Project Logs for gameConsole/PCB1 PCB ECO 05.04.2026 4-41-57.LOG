@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Member To Class: ClassName=Sheet1 Member=Component SB1 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB2 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB4 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB5 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB7 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB8 button
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 Speaker
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 ESP->Interface

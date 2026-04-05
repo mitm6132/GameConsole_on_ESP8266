@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=DA1-6
+Removed Pin From Net: NetName=+3.3v Pin=DD2-8
+Removed Pin From Net: NetName=GND Pin=DD2-16
+Removed Pin From Net: NetName=NetDD1_12 Pin=R1-2
+Removed Pin From Net: NetName=NetDD1_13 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=XS4-1
+Removed Pin From Net: NetName=+3.3v Pin=XS4-2
+Removed Pin From Net: NetName=GND Pin=XS4-7
+Removed Pin From Net: NetName=+3.3v Pin=XS4-8
+Removed Member From Class: ClassName=Sheet1 Member=DA1
+Removed Member From Class: ClassName=Sheet1 Member=DD2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=SB9
+Removed Member From Class: ClassName=Sheet1 Member=SB10
+Removed Member From Class: ClassName=Sheet1 Member=XS4
+Change Component Footprint: Designator=XS3 Old Footprint=2pin New Footprint=button
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB1
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB2
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB3
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB7 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB8
+Change Component Designator: OldDesignator=XS3 NewDesignator=XS2
+Added Component: Designator=XS3(PINOUTX5)
+Added Pin To Net: NetName=+3.3v Pin=DD1-18
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=+3.3v Pin=XS2-1
+Added Pin To Net: NetName=+3.3v Pin=XS3-2
+Added Pin To Net: NetName=NetDD1_13 Pin=XS3-3
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Pin To Net: NetName=NetDD1_12 Pin=XS3-4
+Added Pin To Net: NetName=+5v Pin=XS1-1
+Added Pin To Net: NetName=+5v Pin=XS3-1
+Added Net: Name=+5v
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_8 Pin=XS2-2
+Added Net: Name=NetDD1_8

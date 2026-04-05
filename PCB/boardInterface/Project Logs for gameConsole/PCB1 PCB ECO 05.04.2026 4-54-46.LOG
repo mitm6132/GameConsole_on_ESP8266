@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=XS3-4
+Change Component Comment : Designator=XS3 Old Comment=ESP->Interface New Comment=I2C
+Added Pin To Net: NetName=NetDD1_12 Pin=XS3-4
+Added Pin To Net: NetName=GND Pin=XS3-5
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.5mm New=5mm
