@@ -1,0 +1,175 @@
+Added Component: Designator=DD1(ESP8266Wemos)
+Added Component: Designator=DD2(DIP28)
+Added Component: Designator=R1(res)
+Added Component: Designator=SB1(On/Off)
+Added Component: Designator=SB2(button)
+Added Component: Designator=SB3(button)
+Added Component: Designator=SB4(button)
+Added Component: Designator=SB5(button)
+Added Component: Designator=SB6(button)
+Added Component: Designator=SB7(button)
+Added Component: Designator=SB8(button)
+Added Component: Designator=SB9(button)
+Added Component: Designator=XS1(18650)
+Added Component: Designator=XS2(TFT 1.8")
+Added Component: Designator=XS3(SDcard)
+Added Component: Designator=XS4(LM2596S)
+Added Component: Designator=XS5(PINOUTX20)
+Added Component: Designator=XS6(speaker)
+Added Component: Designator=XS7(AUX)
+Added Pin To Net: NetName=+3.3v Pin=DD1-8
+Added Pin To Net: NetName=+5v Pin=DD1-15
+Added Pin To Net: NetName=GND Pin=DD1-16
+Add Pin To Net: Unknown Pin: Pin DD1-21
+Added Pin To Net: NetName=+3.3v Pin=DD2-9
+Added Pin To Net: NetName=GND Pin=DD2-10
+Added Pin To Net: NetName=GND Pin=DD2-15
+Added Pin To Net: NetName=GND Pin=DD2-16
+Added Pin To Net: NetName=GND Pin=DD2-17
+Added Pin To Net: NetName=+3.3v Pin=DD2-18
+Added Pin To Net: NetName=NetDD1_21 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=SB4-2
+Added Pin To Net: NetName=GND Pin=SB5-2
+Added Pin To Net: NetName=GND Pin=SB6-2
+Added Pin To Net: NetName=GND Pin=SB7-2
+Added Pin To Net: NetName=GND Pin=SB8-2
+Added Pin To Net: NetName=GND Pin=SB9-2
+Added Pin To Net: NetName=+3.3v Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=+3.3v Pin=XS2-8
+Added Pin To Net: NetName=GND Pin=XS3-1
+Added Pin To Net: NetName=+5v Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS4-3
+Added Pin To Net: NetName=+5v Pin=XS4-4
+Added Pin To Net: NetName=+3.3v Pin=XS5-15
+Added Pin To Net: NetName=+5v Pin=XS5-19
+Added Pin To Net: NetName=+5v Pin=XS5-19
+Added Pin To Net: NetName=GND Pin=XS5-20
+Added Pin To Net: NetName=+3.3v Pin=XS6-1
+Added Pin To Net: NetName=GND Pin=XS7-1
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=XS2-4
+Added Pin To Net: NetName=NetDD1_1 Pin=XS2-4
+Added Pin To Net: NetName=NetDD1_1 Pin=XS5-9
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=XS2-5
+Added Pin To Net: NetName=NetDD1_3 Pin=XS2-5
+Added Pin To Net: NetName=NetDD1_3 Pin=XS5-16
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_4 Pin=XS2-7
+Added Pin To Net: NetName=NetDD1_4 Pin=XS3-5
+Added Pin To Net: NetName=NetDD1_4 Pin=XS5-12
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=XS3-3
+Added Pin To Net: NetName=NetDD1_5 Pin=XS5-10
+Added Net: Name=NetDD1_5
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_6 Pin=XS2-6
+Added Pin To Net: NetName=NetDD1_6 Pin=XS2-6
+Added Pin To Net: NetName=NetDD1_6 Pin=XS3-4
+Added Pin To Net: NetName=NetDD1_6 Pin=XS5-11
+Added Net: Name=NetDD1_6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_7 Pin=XS2-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS2-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS5-14
+Added Net: Name=NetDD1_7
+Added Pin To Net: NetName=NetDD1_17 Pin=XS3-6
+Added Pin To Net: NetName=NetDD1_17 Pin=XS5-13
+Added Net: Name=NetDD1_17
+Added Pin To Net: NetName=NetDD1_19 Pin=DD2-13
+Added Net: Name=NetDD1_19
+Added Pin To Net: NetName=NetDD1_20 Pin=DD2-12
+Added Pin To Net: NetName=NetDD1_20 Pin=XS5-17
+Added Net: Name=NetDD1_20
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=XS5-1
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=XS5-2
+Added Net: Name=NetDD2_2
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_3 Pin=XS5-3
+Added Net: Name=NetDD2_3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetDD2_4 Pin=XS5-4
+Added Net: Name=NetDD2_4
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=XS5-5
+Added Net: Name=NetDD2_5
+Added Pin To Net: NetName=NetDD2_6 Pin=DD2-6
+Added Pin To Net: NetName=NetDD2_6 Pin=XS5-6
+Added Net: Name=NetDD2_6
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Pin To Net: NetName=NetDD2_7 Pin=XS5-7
+Added Net: Name=NetDD2_7
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_8 Pin=XS5-8
+Added Pin To Net: NetName=NetDD2_8 Pin=XS6-2
+Added Net: Name=NetDD2_8
+Added Pin To Net: NetName=NetDD2_21 Pin=DD2-21
+Added Pin To Net: NetName=NetDD2_21 Pin=SB9-1
+Added Net: Name=NetDD2_21
+Added Pin To Net: NetName=NetDD2_22 Pin=DD2-22
+Added Pin To Net: NetName=NetDD2_22 Pin=SB8-1
+Added Net: Name=NetDD2_22
+Added Pin To Net: NetName=NetDD2_23 Pin=DD2-23
+Added Pin To Net: NetName=NetDD2_23 Pin=SB7-1
+Added Net: Name=NetDD2_23
+Added Pin To Net: NetName=NetDD2_24 Pin=DD2-24
+Added Pin To Net: NetName=NetDD2_24 Pin=SB6-1
+Added Net: Name=NetDD2_24
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-25
+Added Pin To Net: NetName=NetDD2_25 Pin=SB5-1
+Added Net: Name=NetDD2_25
+Added Pin To Net: NetName=NetDD2_26 Pin=DD2-26
+Added Pin To Net: NetName=NetDD2_26 Pin=SB4-1
+Added Net: Name=NetDD2_26
+Added Pin To Net: NetName=NetDD2_27 Pin=DD2-27
+Added Pin To Net: NetName=NetDD2_27 Pin=SB3-1
+Added Net: Name=NetDD2_27
+Added Pin To Net: NetName=NetDD2_28 Pin=DD2-28
+Added Pin To Net: NetName=NetDD2_28 Pin=SB2-1
+Added Net: Name=NetDD2_28
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=XS7-2
+Added Pin To Net: NetName=NetR1_1 Pin=XS7-2
+Added Pin To Net: NetName=NetR1_1 Pin=XS7-3
+Added Pin To Net: NetName=NetR1_1 Pin=XS7-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=XS4-2
+Added Net: Name=NetSB1_1
+Added Pin To Net: NetName=NetXS1_2 Pin=XS1-2
+Added Pin To Net: NetName=NetXS1_2 Pin=XS1-3
+Added Net: Name=NetXS1_2
+Added Pin To Net: NetName=NetXS1_4 Pin=XS1-4
+Added Pin To Net: NetName=NetXS1_4 Pin=XS4-1
+Added Net: Name=NetXS1_4
+Added Pin To Net: NetName=VCC Pin=SB1-2
+Added Pin To Net: NetName=VCC Pin=XS1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component DD1 LOLINESP8266
+Added Member To Class: ClassName=Sheet1 Member=Component DD2 MCP23017
+Added Member To Class: ClassName=Sheet1 Member=Component R1 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component SB1 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB2 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB3 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB4 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB5 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB6 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB7 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB8 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB9 button
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 Power
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 TFT_Display
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 SD_card_SPI
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 LM2596S
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 pinOutX20
+Added Member To Class: ClassName=Sheet1 Member=Component XS6 Speaker
+Added Member To Class: ClassName=Sheet1 Member=Component XS7 AUX

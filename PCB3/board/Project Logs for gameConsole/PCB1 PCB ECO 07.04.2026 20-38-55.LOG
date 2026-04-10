@@ -1,0 +1,10 @@
+Added Component: Designator=XS2(TFT 1.8")
+Added Pin To Net: NetName=+3.3v Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=NetDD1_7 Pin=XS2-3
+Added Pin To Net: NetName=NetDD1_1 Pin=XS2-4
+Added Pin To Net: NetName=NetDD1_3 Pin=XS2-5
+Added Pin To Net: NetName=NetDD1_6 Pin=XS2-6
+Added Pin To Net: NetName=NetDD1_4 Pin=XS2-7
+Added Pin To Net: NetName=+3.3v Pin=XS2-8
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 TFT_Display

@@ -1,0 +1,23 @@
+Added Component: Designator=XS5(PINOUTX20)
+Add Pin To Net: Unknown Pin: Pin DD1-1-
+Added Pin To Net: NetName=NetDD2_1 Pin=XS5-1
+Added Pin To Net: NetName=NetDD2_2 Pin=XS5-2
+Added Pin To Net: NetName=NetDD2_3 Pin=XS5-3
+Added Pin To Net: NetName=NetDD2_4 Pin=XS5-4
+Added Pin To Net: NetName=NetDD2_5 Pin=XS5-5
+Added Pin To Net: NetName=NetDD2_6 Pin=XS5-6
+Added Pin To Net: NetName=NetDD2_7 Pin=XS5-7
+Added Pin To Net: NetName=NetDD2_8 Pin=XS5-8
+Added Pin To Net: NetName=NetDD1_1 Pin=XS5-9
+Added Pin To Net: NetName=NetDD1_5 Pin=XS5-10
+Added Pin To Net: NetName=NetDD1_6 Pin=XS5-11
+Added Pin To Net: NetName=NetDD1_4 Pin=XS5-12
+Added Pin To Net: NetName=NetDD1_11 Pin=XS5-13
+Added Pin To Net: NetName=NetDD1_7 Pin=XS5-14
+Added Pin To Net: NetName=+3.3v Pin=XS5-15
+Added Pin To Net: NetName=NetDD1_3 Pin=XS5-16
+Added Pin To Net: NetName=NetDD1_14 Pin=XS5-17
+Added Pin To Net: NetName=NetDD1_13 Pin=XS5-18
+Added Pin To Net: NetName=+5v Pin=XS5-19
+Added Pin To Net: NetName=GND Pin=XS5-20
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 pinOutX20

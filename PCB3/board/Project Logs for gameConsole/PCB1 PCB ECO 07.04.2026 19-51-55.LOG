@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5v Pin=DD1-15
+Removed Pin From Net: NetName=GND Pin=DD1-16
+Add Pin To Net: Unknown Pin: Pin DD1-1-
+Add Pin To Net: Unknown Pin: Pin DD1-9
+Added Pin To Net: NetName=NetDD1_11 Pin=XS3-6
+Added Pin To Net: NetName=NetDD1_11 Pin=XS5-13
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_13 Pin=DD2-13
+Added Net: Name=NetDD1_13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD2-12
+Added Pin To Net: NetName=NetDD1_14 Pin=XS5-17
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD1_15 Pin=R1-2
+Added Net: Name=NetDD1_15
