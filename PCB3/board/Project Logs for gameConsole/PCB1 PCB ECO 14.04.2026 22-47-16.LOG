@@ -1,0 +1,8 @@
+Added Component: Designator=XS3(SDcard)
+Added Pin To Net: NetName=GND Pin=XS3-1
+Added Pin To Net: NetName=+5v Pin=XS3-2
+Added Pin To Net: NetName=NetDD2_5 Pin=XS3-3
+Added Pin To Net: NetName=NetDD2_6 Pin=XS3-4
+Added Pin To Net: NetName=NetDD2_4 Pin=XS3-5
+Added Pin To Net: NetName=NetDD2_11 Pin=XS3-6
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 SD_card_SPI

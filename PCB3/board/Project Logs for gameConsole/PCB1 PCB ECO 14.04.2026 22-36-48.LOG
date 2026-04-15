@@ -1,0 +1,98 @@
+Added Component: Designator=DD1(DIP28)
+Added Component: Designator=DD2(ESP8266Wemos)
+Added Component: Designator=R1(res)
+Added Component: Designator=SB1(button)
+Added Component: Designator=SB2(button)
+Added Component: Designator=SB3(button)
+Added Component: Designator=SB4(button)
+Added Component: Designator=SB5(button)
+Added Component: Designator=SB6(button)
+Added Component: Designator=SB7(button)
+Added Component: Designator=SB8(button)
+Added Component: Designator=XS1(Power)
+Added Component: Designator=XS2(TFT 1.8")
+Added Component: Designator=XS3(SDcard)
+Added Component: Designator=XS4(AUX)
+Added Pin To Net: NetName=+3.3v Pin=DD1-9
+Added Pin To Net: NetName=GND Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=DD1-15
+Added Pin To Net: NetName=GND Pin=DD1-16
+Added Pin To Net: NetName=GND Pin=DD1-17
+Added Pin To Net: NetName=+3.3v Pin=DD1-18
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_22 Pin=DD1-22
+Added Pin To Net: NetName=NetDD1_23 Pin=DD1-23
+Added Pin To Net: NetName=NetDD1_24 Pin=DD1-24
+Added Pin To Net: NetName=NetDD1_25 Pin=DD1-25
+Added Pin To Net: NetName=NetDD1_26 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_27 Pin=DD1-27
+Added Pin To Net: NetName=NetDD1_28 Pin=DD1-28
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_6 Pin=DD2-6
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Pin To Net: NetName=+3.3v Pin=DD2-8
+Added Pin To Net: NetName=+5v Pin=DD2-9
+Added Pin To Net: NetName=GND Pin=DD2-10
+Added Pin To Net: NetName=NetDD2_11 Pin=DD2-11
+Added Pin To Net: NetName=NetDD1_13 Pin=DD2-13
+Added Pin To Net: NetName=NetDD1_12 Pin=DD2-14
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetDD2_15 Pin=R1-2
+Added Pin To Net: NetName=NetDD1_28 Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=NetDD1_27 Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=NetDD1_26 Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=NetDD1_25 Pin=SB4-1
+Added Pin To Net: NetName=GND Pin=SB4-2
+Added Pin To Net: NetName=NetDD1_24 Pin=SB5-1
+Added Pin To Net: NetName=GND Pin=SB5-2
+Added Pin To Net: NetName=NetDD1_23 Pin=SB6-1
+Added Pin To Net: NetName=GND Pin=SB6-2
+Added Pin To Net: NetName=NetDD1_22 Pin=SB7-1
+Added Pin To Net: NetName=GND Pin=SB7-2
+Added Pin To Net: NetName=NetDD1_21 Pin=SB8-1
+Added Pin To Net: NetName=GND Pin=SB8-2
+Added Pin To Net: NetName=+5v Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=+3.3v Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS2-3
+Added Pin To Net: NetName=NetDD2_1 Pin=XS2-4
+Added Pin To Net: NetName=NetDD2_3 Pin=XS2-5
+Added Pin To Net: NetName=NetDD2_6 Pin=XS2-6
+Added Pin To Net: NetName=NetDD2_4 Pin=XS2-7
+Added Pin To Net: NetName=+3.3v Pin=XS2-8
+Added Pin To Net: NetName=GND Pin=XS3-1
+Added Pin To Net: NetName=+5v Pin=XS3-2
+Added Pin To Net: NetName=NetDD2_5 Pin=XS3-3
+Added Pin To Net: NetName=NetDD2_6 Pin=XS3-4
+Added Pin To Net: NetName=NetDD2_4 Pin=XS3-5
+Added Pin To Net: NetName=NetDD2_11 Pin=XS3-6
+Added Pin To Net: NetName=GND Pin=XS4-1
+Added Pin To Net: NetName=NetR1_1 Pin=XS4-2
+Added Pin To Net: NetName=NetR1_1 Pin=XS4-2
+Added Pin To Net: NetName=NetR1_1 Pin=XS4-3
+Added Pin To Net: NetName=NetR1_1 Pin=XS4-3
+Added Member To Class: ClassName=Sheet1 Member=Component DD1 MCP23017
+Added Member To Class: ClassName=Sheet1 Member=Component DD2 LOLINESP8266
+Added Member To Class: ClassName=Sheet1 Member=Component R1 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component SB1 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB2 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB3 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB4 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB5 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB6 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB7 button
+Added Member To Class: ClassName=Sheet1 Member=Component SB8 button
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 Power
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 TFT_Display
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 SD_card_SPI
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 AUX
